@@ -1,0 +1,181 @@
+body {
+    margin: auto;
+    background: url("img/pattern.png");
+}
+
+.block {
+    margin: 15px 60px;
+    display: inline-block;
+}
+
+.maintext {
+    width:600px;
+    margin: 15px auto;
+    background: #fff;
+    box-shadow: 0 5px 10px #000; 
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.maintext1 {   
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    width: 111px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 4px 8px;
+  }
+
+  button:hover {
+    background: #1d49aa;
+  }
+  
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px #cbd6ee;
+  }
+/*========================================*/
+
+.cardrodion {
+    width: 350px;
+    background: #fff;
+    box-shadow: 0 5px 20px #000; 
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.photorodion {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    outline: 2px solid #000;
+}
+
+.textrodion1 {
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textrodion2 {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #293133;
+    text-decoration: none;
+}
+
+/*========================================*/
+
+.cardeldar {
+    width: 350px;
+    background: #fff;
+    box-shadow: 0 5px 20px #000; 
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.photoeldar {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    outline: 2px solid #000;
+}
+
+.texteldar1 {
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+.texteldar2 {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+a:hover {
+    color: #9a9a9a;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #293133;
+    text-decoration: none;
+}
+
+/*========================================*/
+
+.cardadil {
+    width: 350px;
+    background: #fff    ;
+    box-shadow: 0 5px 20px #000;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.photoadil {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    outline: 2px solid #000;
+}
+
+.textadil1 {
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textadil2 {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+
+a:hover {
+    color: #565656;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #293133;
+    text-decoration: none;
+}

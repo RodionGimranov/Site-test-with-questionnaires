@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background-image: url("img/pattern.png");
+    line-height: 1.5;
+}
+
+.cardeldar {
+    width: 400px;
+    margin: 15px auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 5px 20px #000; 
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.photoeldar {
+    display: block;
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    border-radius: 15%;
+}
+
+.cardtext {
+    width: 400px;
+    margin: 15px auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 5px 10px #000; 
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.texteldar {
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+.cardeldar2 {
+    width: 400px;
+    margin: 15px auto;
+    background-color: #FFFFFF; 
+    box-shadow: 0 5px 20px #000; 
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.texteldar2 {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:hover {
+    color: #58de15;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: #293133;
+    text-decoration: none;
+}
